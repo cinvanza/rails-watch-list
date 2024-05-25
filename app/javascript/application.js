@@ -4,6 +4,4 @@ import "controllers"
 // app/javascript/application.js
 import "bootstrap"
 import "@popperjs/core"
-// app/assets/config/manifest.js
-//= link popper.js
-//= link bootstrap.min.js
+
